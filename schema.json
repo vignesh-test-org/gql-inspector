@@ -10,7 +10,7 @@
         "description": "",
         "fields": [
           {
-            "name": "posttt",
+            "name": "post",
             "description": "",
             "args": [],
             "type": {
